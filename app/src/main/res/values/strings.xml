@@ -1,0 +1,107 @@
+<resources>
+
+    <string name="app_name">World Cup Sticker Album</string>
+
+    <string name="album_title">World Cup Album</string>
+    <string name="details_title">Sticker Details</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="pack_title">Sticker Pack</string>
+    <string name="statistics_title">Statistics</string>
+
+    <string name="search_hint">Search players</string>
+
+    <string name="open_pack">Open Pack</string>
+    <string name="statistics">Statistics</string>
+    <string name="favorites">Favorites</string>
+
+    <string name="collected">Collected</string>
+    <string name="missing">Missing</string>
+
+    <string name="add_favorite">Favorite</string>
+    <string name="remove_favorite">Unfavorite</string>
+
+    <string name="share">Share sticker</string>
+
+    <string name="loading">Loading...</string>
+    <string name="loading_stickers">Loading stickers...</string>
+
+    <string name="no_favorites">No favorite stickers yet.</string>
+
+    <string name="pack_instruction">Tap the button or shake your phone to open a pack.</string>
+    <string name="opening_pack">Opening pack...</string>
+
+    <string name="splash_subtitle">Collect them all!</string>
+
+    <string name="search_player">Search player</string>
+
+    <string name="team_value">Team: %1$s</string>
+    <string name="jersey_value">Jersey #%1$d</string>
+    <string name="position_value">Position: %1$s</string>
+
+    <string name="filter_team">Team: %1$s</string>
+    <string name="sort_value">Sort: %1$s</string>
+    <string name="view_value">View: %1$s</string>
+
+    <string name="results_count">%1$d stickers</string>
+
+    <string name="image_loading">Loading image...</string>
+
+    <string name="album">Album</string>
+    <string name="pack">Pack</string>
+    <string name="back">Back</string>
+
+    <string name="pack_screen_title">Open a Sticker Pack</string>
+    <string name="pack_description">Shake your phone or tap the pack to open it.</string>
+    <string name="open_new_pack">Open Pack</string>
+    <string name="new_stickers">Your new stickers</string>
+    <string name="no_pack_opened">Open a pack to discover new stickers!</string>
+
+    <string name="collection_statistics">Collection Statistics</string>
+    <string name="total_stickers">Total stickers</string>
+    <string name="album_completed">Album completed</string>
+
+    <string name="splash_title_first">Sticker</string>
+    <string name="splash_title_second">Album</string>
+    <string name="splash_loading">Loading your collection...</string>
+
+
+    <string name="image_unavailable">Image unavailable</string>
+    <string name="jersey_short">#%1$d</string>
+
+    <string name="sort_jersey_up">Sort: Jersey ↑</string>
+    <string name="sort_jersey_down">Sort: Jersey ↓</string>
+
+    <string name="view_list">List</string>
+    <string name="view_grid">Grid</string>
+
+    <string name="team">Team</string>
+    <string name="jersey">Jersey number</string>
+    <string name="position">Position</string>
+
+    <string name="share_sticker">Share sticker</string>
+
+    <string name="player_not_found">Player not found</string>
+
+    <string name="no_favorites_message">Add stickers to favorites and they will appear here.</string>
+    <string name="favorite_count">%1$d favorite stickers</string>
+
+    <string name="pack_world_cup">WORLD CUP</string>
+    <string name="pack_sticker_pack">STICKER PACK</string>
+    <string name="pack_hint">SHAKE TO OPEN</string>
+    <string name="new_sticker">NEW</string>
+
+    <string name="pack_ready_title">Your pack is ready!</string>
+    <string name="pack_ready_description">Tap the pack or shake your device to open it.</string>
+    <string name="tap_or_shake">Tap the pack or shake your device</string>
+    <string name="your_stickers">Your Stickers</string>
+    <string name="open_another_pack">Open another pack</string>
+
+    <string name="collection_overview">Collection overview</string>
+
+    <string name="collected_by_type">Collected by type</string>
+    <string name="collected_distribution">Collected sticker distribution</string>
+    <string name="regular">Regular</string>
+    <string name="gold">Gold</string>
+    <string name="crests">Crests</string>
+
+</resources>
